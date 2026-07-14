@@ -21,7 +21,7 @@ Designed to be fast, responsive, and low on system resources, VolMix focuses on 
 ## 📸 Screenshot
 
 <p align="center">
-  <img src="assets/logo.png" alt="VolMix Screenshot" width="600">
+  <img src="assets/logo.png" alt="VolMix Screenshot" width="450">
 </p>
 
 ---
